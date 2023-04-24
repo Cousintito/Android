@@ -129,8 +129,10 @@ div.video{
     background-color: #313a37;
     margin-bottom: 30px;
     padding: 20px;
-  padding-bottom: 50%;
-   position: relative;
+    padding-bottom: 50%;
+    position: relative;
+    border-radius: 5px;
+
    
 }
 div.video > iframe{
